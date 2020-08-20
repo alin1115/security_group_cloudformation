@@ -31,3 +31,5 @@ Prerequisite - Prepare template:
 10. Create a Stack 
 
 You will see CREATE_IN_PROGRESS then CREATE_COMPLETE
+
+Note: Please replaces VPC ID with your VPC ID
