@@ -5,7 +5,8 @@ The Security Group has the following tags :
         Team = Dev
         Owner = Alina
 
-Security Group Rule that allows ONLY 443/https.
+Security Group Rule that allows
+        ONLY 443/https.
 
 Prerequisite - Prepare template:
 
